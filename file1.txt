@@ -2,3 +2,4 @@ Hello World!
 123
 Good evening (from branch master) 123
 some new feature
+Line from User1 - lesson about rebase
